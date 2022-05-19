@@ -50,7 +50,11 @@ Isso será reaproveitado nas aulas dos nosso projetos, ondem todos precisam de u
 - Global: utilizando o arquivo styles.css, que fica em src;
 - Scoped: estilos a nível de componente, criamos quando damos um generate;
 
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/169181980-49575082-745f-4639-9ea0-cf59a487983e.png"/></P>
 
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/169182014-d5298bfd-8cb8-4af6-b02e-971007bc0cd3.png"/></P>
 
 
 ## Exploramos os recursos essenciais em um desenvolvimento utilizando Angular conforme abaixo:
