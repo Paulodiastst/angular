@@ -85,3 +85,18 @@ No terminal com o comando abaixo criamos novo component com nome parent-data.
  <p align="center">
 <img src="https://user-images.githubusercontent.com/79487813/169426276-3ee1899d-bd7a-436f-a6d1-61a0c3cca650.png"/></P>
 
+## 📝 Renderização condicional
+<p align="center"> Criando uma renderização condiconal em Angular
+Ou seja, imprimir algo no template baseado em uma condicional if e else
+Isso nos permite mais flexibilidade ainda com o framework.</p>
+
+- É possível exibir determinado conteúdo por meio de uma condicional;
+- Utilizamos a diretiva nglf para isso;
+- Os valores podem ser dinâmicos (propriedades), mas podemos realizar outros tipos de comparação;
+- Há a possibilidade também de imprimir um cenário para avalização de falso, com o else;
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/169426276-3ee1899d-bd7a-436f-a6d1-61a0c3cca650.png"/></P>
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/169426276-3ee1899d-bd7a-436f-a6d1-61a0c3cca650.png"/></P>
