@@ -56,27 +56,32 @@ Isso será reaproveitado nas aulas dos nosso projetos, ondem todos precisam de u
  <p align="center">
 <img src="https://user-images.githubusercontent.com/79487813/169182014-d5298bfd-8cb8-4af6-b02e-971007bc0cd3.png"/></P>
 
+## 📝 Compartilhando dados
+<p align="center"> Compartilhamento de dados do componente pai para o componente filho em #Angular
+Este recurso em outros frameworks front-end é chamado de props
+E nos possibilita trabalhar com componentes dinâmicos, baseado em dados diferentes passados.</p>
 
-## Exploramos os recursos essenciais em um desenvolvimento utilizando Angular conforme abaixo:
+No terminal com o comando abaixo criamos novo component com nome parent-data.
 
-- Angular 13: https://angular.io/
-- Angular HttpClient: https://angular.io/api/common/http/HttpClient
-- Angular Router: https://angular.io/api/router
-- Bootstrap 5: https://getbootstrap.com/
+-- ng generate component components/parent-data
 
-## 📝 O que é Angular?
+- Em Angular podemos compartilhar dados do componente pai com o componente filho;
+- Para isso, vamos disponibilizar na chamada do componente o nome do dado que será recebido com a seguinte sintaxe: [dado];
+- E no código .ts do componente filho vamos utilizar o decorator @input, que tem papel entregar o dado para o template;
 
- <p align="center">
-<img src="https://user-images.githubusercontent.com/79487813/167975519-c8a3d3ea-2705-440e-9ec1-c6d0857f0dbf.png"/></P>
+## 📝 Diretivas do Angular
+<p align="center"> Recurso chamado diretivas, que é super importante para o #Angular Com podemos criar funcionalidades complexas no nosso app.</p>
 
- <p align="center">
-<img src="https://user-images.githubusercontent.com/79487813/168497272-16257da3-c08d-488f-bac8-e68ae935fb68.png"/></P>
-
- <p align="center">
-<img src="https://user-images.githubusercontent.com/79487813/167975879-b3484d5b-7248-4418-857d-3741cd5b6b3a.png"/></P>
-
- <p align="center">
-<img src="https://user-images.githubusercontent.com/79487813/167975942-509dc93e-1256-4ea0-9238-e82c326ead86.png"/></P>
+- Em Angular temos um recurso chamado diretivas;
+- Que podem realizar diversas funções no sistema, como aplicar estilos a em elemento;
+- Elas começam sempre com ng, o nome fica como: ngAngularCoisa;
 
  <p align="center">
-<img src="https://user-images.githubusercontent.com/79487813/167975986-75b9140b-8189-4457-9694-ed805bfbe467.png"/></P>
+<img src="https://user-images.githubusercontent.com/79487813/169426021-4bfb2f3a-5db0-4c2f-b031-6926205fc3db.png"/></P>
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/169426210-5ca030a8-a7b5-49c1-a71f-4f3f250f87ce.png"/></P>
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/169426276-3ee1899d-bd7a-436f-a6d1-61a0c3cca650.png"/></P>
+
