@@ -96,7 +96,23 @@ Isso nos permite mais flexibilidade ainda com o framework.</p>
 - Há a possibilidade também de imprimir um cenário para avalização de falso, com o else;
 
  <p align="center">
-<img src="https://user-images.githubusercontent.com/79487813/169426276-3ee1899d-bd7a-436f-a6d1-61a0c3cca650.png"/></P>
+<img src="https://user-images.githubusercontent.com/79487813/169435349-f3d5f518-9828-4e5b-acc6-6bd0880d18c7.png"/></P>
 
  <p align="center">
-<img src="https://user-images.githubusercontent.com/79487813/169426276-3ee1899d-bd7a-436f-a6d1-61a0c3cca650.png"/></P>
+<img src="https://user-images.githubusercontent.com/79487813/169435522-a2f86757-5a50-44ff-b541-57e0b14ebb8b.png"/></P>
+
+## 📝 Eventos no Angular
+<p align="center"> Os eventos em frameworks de front-end são recursos essenciais
+Um dos mais utilizados é o de click, quando o usuário clica em algum elemento e dispara uma função.</p>
+
+- Podemos ativar eventos nos componentes para disparar algum método;
+- Um evento clássico que utilizamos muito é o click;
+- A sintaxe é: (click)="algumaFuncao()"
+- Os métodos ficam na classe;
+- Futuramente utilizaremos este recurso para acessar uma API;
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/169658114-4e850f03-1aef-4624-ad76-907a17532c74.png"/></P>
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/169658149-4660402c-d8b6-4398-8a32-e8e78182eb7c.png"/></P>
