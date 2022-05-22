@@ -131,3 +131,21 @@ Desta maneira conseguimos executar uma função que é controlada por outro comp
 
  <p align="center">
 <img src="https://user-images.githubusercontent.com/79487813/169658149-4660402c-d8b6-4398-8a32-e8e78182eb7c.png"/></P>
+
+## 📝 Renderização de listas
+<p align="center"> O recurso consiste em ter um array, geralmente de objetos, onde iteramos por cada um dos itens
+E imprimimos suas informações no template, exemplo: Uma lista de produtos da home de um e-commerce.</p>
+
+- Outro recurso importante é o loop em listas;
+- Para isso vamos precisar de uma propriedade com os itens da lista;
+- E no template do componente vamos utilizar o *ngFor;
+- A sintaxe é: *ngFor="let item of items";
+- Desta maneira podemos renderizar template baseado em dados;
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/169676473-720d29dc-e2cc-4cd3-bb92-733c4a75924e.png"/></P>
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/169676488-23dd22a6-553c-428b-b6af-50c994dd17fa.png"/></P>
+
+
