@@ -116,3 +116,18 @@ Um dos mais utilizados é o de click, quando o usuário clica em algum elemento 
 
  <p align="center">
 <img src="https://user-images.githubusercontent.com/79487813/169658149-4660402c-d8b6-4398-8a32-e8e78182eb7c.png"/></P>
+
+## 📝 Emitindo eventos
+<p align="center"> Esta técnica consiste em conseguir ativar um evento em um componente filho, e replicar isso para o componente pai
+Desta maneira conseguimos executar uma função que é controlada por outro componente.</p>
+
+- Podemos comunicar eventos de um componente filho para o pai;
+- Para isso vamos precisar o @Output. que vai fazer a saída do evento do componente filho;
+- Na tag invocação do componente no template, escolhemos um método para executar quando o evento for emitido;
+- Exemplo: (emit)="onEmit"
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/169658114-4e850f03-1aef-4624-ad76-907a17532c74.png"/></P>
+
+ <p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/169658149-4660402c-d8b6-4398-8a32-e8e78182eb7c.png"/></P>
