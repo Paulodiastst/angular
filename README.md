@@ -149,3 +149,14 @@ E imprimimos suas informações no template, exemplo: Uma lista de produtos da h
 <img src="https://user-images.githubusercontent.com/79487813/169676488-23dd22a6-553c-428b-b6af-50c994dd17fa.png"/></P>
 
 
+## 📝 A Importância das interfaces
+<p align="center">  Agora vamos unir um conceito de TypeScript ao Angular
+Utilizaremos interfaces para representar nossas entidades no sistema
+Por exemplo: se trabalhamos com usuários, ter uma interface User pode nos ajudar bastante ao longo do projeto
+Criando métodos que recebem esta interface como retorno tipado, e outras ações neste sentido.</p>
+
+- Toda entidade que vamos trabalhar precisa de uma interface;
+- Isso vai tornar nosso código mais simples ao longo do programa;
+- Padronizando ele e facilitando a manutenção;
+- Vamos implementar uma interface a nossa lista de animais;
+- E fazer um evento que também utilizará este recurso;
